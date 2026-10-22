@@ -20,7 +20,7 @@ Swift · SwiftUI · CoreBluetooth · HealthKit · SQLite
 
 ### [Sand Canvas](https://github.com/kno-raziel/sand-canvas)
 
-*Created: March 2026*
+*Started: February 25, 2026*
 
 A visual workspace where coding agents can inspect and edit designs made from real React components. I built the editor, document engine, component adapters and MCP integration to connect visual feedback with implementation.
 
@@ -28,7 +28,7 @@ React · TypeScript · MCP · Zod
 
 ### [Spectral Curiosity](https://github.com/kno-raziel/spectral-curiosity)
 
-*Created: March 2026*
+*First commit: March 16, 2026*
 
 A tool for exploring Antigravity conversation backups and managing their workspace associations. It runs as a Bun application or a VS Code extension, with a shared data layer and SQLite adapters for each runtime.
 
