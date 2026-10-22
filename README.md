@@ -34,7 +34,9 @@ React · TypeScript · MCP · Zod
 
 *First commit: March 16, 2026*
 
-A tool for exploring Antigravity conversation backups and managing their workspace associations. It runs as a Bun application or a VS Code extension, with a shared data layer and SQLite adapters for each runtime.
+I built Spectral to move away from Antigravity without leaving behind the AI-generated plans, documentation, and conversation context I wanted to keep. It brings artifact browsing, portable backups, and workspace recovery into a local tool that runs as a Bun app or a VS Code extension.
+
+[Read why I built it](https://github.com/kno-raziel/spectral-curiosity#why-spectral).
 
 React · TypeScript · Bun · SQLite
 
