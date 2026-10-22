@@ -34,7 +34,7 @@ React · TypeScript · MCP · Zod
 
 *First commit: March 16, 2026*
 
-I built Spectral to move away from Antigravity without leaving behind the AI-generated plans, documentation, and conversation context I wanted to keep. It brings artifact browsing, portable backups, and workspace recovery into a local tool that runs as a Bun app or a VS Code extension.
+I built Spectral to leave Antigravity with a usable archive of my work. Individual artifact downloads didn’t cover what I needed: conversations, generated plans, documentation, and images collected in bulk. Its extension backs up available conversation data as JSON and Markdown and preserves locally stored artifacts and images. I can then browse and search those backups in a standalone Bun app.
 
 [Read why I built it](https://github.com/kno-raziel/spectral-curiosity#why-spectral).
 
