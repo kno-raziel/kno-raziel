@@ -10,7 +10,17 @@ I like taking a problem apart, building something useful, and writing down what 
 
 ## Selected work
 
+### [Vagancia Fitness](https://github.com/kno-raziel/vagancia-fitness)
+
+*Created: October 2026*
+
+A personal iPhone and Apple Watch project for treadmill workouts, health capture and Bluetooth diagnostics. It brings together native apps, a shared protocol core and local persistence. Available as source code to build locally.
+
+Swift · SwiftUI · CoreBluetooth · HealthKit · SQLite
+
 ### [Sand Canvas](https://github.com/kno-raziel/sand-canvas)
+
+*Created: March 2026*
 
 A visual workspace where coding agents can inspect and edit designs made from real React components. I built the editor, document engine, component adapters and MCP integration to connect visual feedback with implementation.
 
@@ -18,15 +28,11 @@ React · TypeScript · MCP · Zod
 
 ### [Spectral Curiosity](https://github.com/kno-raziel/spectral-curiosity)
 
+*Created: March 2026*
+
 A tool for exploring Antigravity conversation backups and managing their workspace associations. It runs as a Bun application or a VS Code extension, with a shared data layer and SQLite adapters for each runtime.
 
 React · TypeScript · Bun · SQLite
-
-### [Vagancia Fitness](https://github.com/kno-raziel/vagancia-fitness)
-
-A personal iPhone and Apple Watch project for treadmill workouts, health capture and Bluetooth diagnostics. It brings together native apps, a shared protocol core and local persistence. Available as source code to build locally.
-
-Swift · SwiftUI · CoreBluetooth · HealthKit · SQLite
 
 ## How I work
 
