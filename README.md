@@ -22,7 +22,9 @@ Swift · SwiftUI · CoreBluetooth · HealthKit · SQLite
 
 *Started: February 25, 2026*
 
-A visual workspace where coding agents can inspect and edit designs made from real React components. I built the editor, document engine, component adapters and MCP integration to connect visual feedback with implementation.
+I built Sand as an open-source proof of concept for visual collaboration with AI coding agents, using real React components and MCP integration. The exercise helped me realize that my existing Storybook setup already covered my workflow, so I didn’t need Sand or Figma for my personal projects.
+
+**Update:** In my latest projects, I’ve moved from Storybook to [React Cosmos](https://reactcosmos.org/). For my React-only workflow, its focus on isolated components is a better fit: fixtures are ordinary React components, so I can explore UI states and interactions using familiar code.
 
 React · TypeScript · MCP · Zod
 
