@@ -24,6 +24,8 @@ Swift · SwiftUI · CoreBluetooth · HealthKit · SQLite
 
 I built Sand as an open-source proof of concept for visual collaboration with AI coding agents, using real React components and MCP integration. The exercise helped me realize that my existing Storybook setup already covered my workflow, so I didn’t need Sand or Figma for my personal projects.
 
+[Read how I reached that conclusion](https://vaganciaproject.com/blog/sand-poc/).
+
 **Update:** In my latest projects, I’ve moved from Storybook to [React Cosmos](https://reactcosmos.org/). For my React-only workflow, its focus on isolated components is a better fit: fixtures are ordinary React components, so I can explore UI states and interactions using familiar code.
 
 React · TypeScript · MCP · Zod
