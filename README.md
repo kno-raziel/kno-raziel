@@ -1,4 +1,4 @@
-[![Vagancia Project: a curious charcoal raven beside the red wordmark on black paper.](assets/vagancia-profile-banner.png)](https://vaganciaproject.com)
+[![kno-raziel: red Asimovian lettering beside a curious charcoal raven on black paper.](assets/vagancia-profile-banner.png)](https://vaganciaproject.com)
 
 # Hi, I'm Victor.
 
